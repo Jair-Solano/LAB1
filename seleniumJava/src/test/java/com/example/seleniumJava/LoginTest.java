@@ -14,7 +14,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class LoginTest {
 
-    private WebDriver driver; // Definido aquí para que todos los métodos lo usen
+    private WebDriver driver;  
 
     @BeforeEach
     public void setUp() {
