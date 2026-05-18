@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Selenium Java TestNG Suite">
+    <test name="Login and Cart Tests">
+        <classes>
+            <class name="com.example.seleniumJava.LoginTestNG"/>
+        </classes>
+    </test>
+</suite>
